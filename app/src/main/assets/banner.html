@@ -1,0 +1,71 @@
+<!--Copyright 2020. Huawei Technologies Co., Ltd. All rights reserved.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.-->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Huawei Ads H5 Ad demo</title>
+    <link type="text/css" rel="styleSheet" href="./css/style.css" />
+    <script src="https://h5hosting.dbankcdn.com/cch5/pps-jssdk/mobile/ppsads.js"></script>
+    <script src="./js/adUtils.js"></script>
+    <script src="./js/bannerAdManager.js"></script>
+</head>
+
+<body>
+<div class="container">
+    <section class="request-area">
+        <p>Size:</p>
+        <div class="radio-group">
+            <div class="radio-item">
+                <input type="radio" id="size32050" name="size" value="0" checked>
+                <label for="size32050">SIZE_320*50</label>
+            </div>
+            <div class="radio-item">
+                <input type="radio" id="size320100" name="size" value="1">
+                <label for="size320100">SIZE_320*100</label>
+            </div>
+            <div class="radio-item">
+                <input type="radio" id="smart" name="size" value="2">
+                <label for="smart">SMART</label>
+            </div>
+            <div class="radio-item">
+                <input type="radio" id="size300250" name="size" value="3">
+                <label for="size300250">SIZE_300*250</label>
+            </div>
+            <div class="radio-item">
+                <input type="radio" id="size36057" name="size" value="4">
+                <label for="size36057">SIZE_360*57</label>
+            </div>
+            <div class="radio-item">
+                <input type="radio" id="size360144" name="size" value="5">
+                <label for="size360144">SIZE_360*144</label>
+            </div>
+        </div>
+        <button class="request-btn btn">Load Ad</button>
+    </section>
+    <div id="content" class="mt-20">
+        <ads-banner id="banner-view" slot-id="testw6vs28auh3" width="320" height="50"></ads-banner>
+    </div>
+    <div id="banner-container"></div>
+
+    <script src="./js/banner.js"></script>
+</div>
+
+</body>
+
+</html>
