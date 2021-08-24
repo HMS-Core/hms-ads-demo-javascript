@@ -15,7 +15,6 @@ The hms-ads-demo-javascript program demonstrates how to integrate the HMS  Ads J
 
 ## Installation
 Install the program on Huawei Android mobile phones.
-<br>You also can use HMS Toolkit to quickly integrate the kit and run the demo project, as well as debug the app using a remote device for free. For details, please visit [HMS Toolkit](https://developer.huawei.com/consumer/en/doc/development/Tools-Guides/getting-started-0000001077381096).</br>
 
 ## Supported Environments
 HMS Core (APK) 6.0.0 or later has been installed on Huawei Android phones.
@@ -49,13 +48,13 @@ Collects user consent on privacy terms.
 <br>Code location: app\src\main\java\com\huawei\hms\ads\jsdemo\ProtocolActivity.java</br>
 
 ## Result
-Banner Ads&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Interstitial Ads&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Native Ads
+Banner Ads&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Interstitial Ads 
 
- <img src=result/Banner.gif width=200>  <img src=result/Interstitial.gif width=200>  <img src=result/Native.gif width=200>
+ <img src=result/Banner.gif width=200>  <img src=result/Interstitial.gif width=200>  
 
-Reward Ads&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+Reward Ads&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Native Ads
 
-<img src=result/Reward.gif width=200>  
+<img src=result/Reward.gif width=200>    <img src=result/Native.gif width=200> 
 
 ## Question or issues
 If you want to evaluate more about HMS Core,
