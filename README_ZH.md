@@ -15,7 +15,6 @@
 
 ## 安装
 在华为手机上安装该示例代码项目。
-<br>该示例也可以通过HMS Toolkit快速启动运行，且支持各Kit一站式集成，并提供远程真机免费调测等功能。了解更多信息，请参见[HMS Toolkit](https://developer.huawei.com/consumer/cn/doc/development/Tools-Guides/getting-started-0000001077381096)。</br>
 
 ## 环境要求
 在华为手机上安装HMS Core (APK) 6.0.0及以上版本。
@@ -48,13 +47,13 @@
 <br>代码位置：app\src\main\java\com\huawei\hms\ads\jsdemo\ProtocolActivity.java</br>
 
 ## 运行结果
-Banner Ads&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Interstitial Ads&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Native Ads
+Banner Ads&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Interstitial Ads
 
- <img src=result/Banner.gif width=200>  <img src=result/Interstitial.gif width=200>  <img src=/result/Native.gif width=200>
+<img src=result/Banner.gif width=200>  <img src=result/Interstitial.gif width=200>
 
-Reward Ads&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 
+Reward Ads&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Native Ads
 
-<img src=result/Reward.gif width=200> 
+<img src=result/Reward.gif width=200>   <img src=/result/Native.gif width=200>
 
 ## 技术支持
 如果您对HMS Core还处于评估阶段，可在[Reddit社区](https://www.reddit.com/r/HuaweiDevelopers/)获取关于HMS Core的最新讯息，并与其他开发者交流见解。
