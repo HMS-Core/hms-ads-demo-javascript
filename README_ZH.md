@@ -11,7 +11,7 @@
 
 
 ## 简介
-华为广告服务（HUAWEI Ads Kit）javascript示例代码向您介绍如何将 HMS  Ads JavaScript API 集成到H5页面中，实现广告展示。
+华为广告服务（HUAWEI Ads Kit）javascript示例代码向您介绍如何将HMS  Ads JavaScript API集成到H5页面中，实现广告展示。
 
 ## 安装
 在华为手机上安装该示例代码项目。
@@ -62,7 +62,7 @@ Reward Ads&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Native Ads
 - 开发过程遇到问题上[Stack Overflow](https://stackoverflow.com/questions/tagged/huawei-mobile-services)，在`huawei-mobile-services`标签下提问，有华为研发专家在线一对一解决您的问题。
 - 到[华为开发者论坛](https://forums.developer.huawei.com/forumPortal/en/home?fid=0101187876626530001) HMS Core板块与其他开发者进行交流。
 
-如果您在尝试示例代码中遇到问题，请向仓库提交[issue](https://github.com/HMS-Core/hms-ads-demo-java/issues)，也欢迎您提交[Pull Request](https://github.com/HMS-Core/hms-ads-demo-java/pulls)。
+如果您在尝试示例代码中遇到问题，请向仓库提交[issue](https://github.com/HMS-Core/hms-ads-demo-javascript/issues)，也欢迎您提交[Pull Request](https://github.com/HMS-Core/hms-ads-demo-javascript/pulls)。
 
 ##  授权许可
 华为广告服务JavaScript示例代码经过 [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0)授权许可。
