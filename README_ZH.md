@@ -1,4 +1,4 @@
-# 华为广告服务JavaScript示例代码
+# 鲸鸿动能广告服务JavaScript示例代码
 中文 | [English](README.md)
 ## 目录
 
@@ -11,7 +11,7 @@
 
 
 ## 简介
-华为广告服务（HUAWEI Ads Kit）javascript示例代码向您介绍如何将HMS  Ads JavaScript API集成到H5页面中，实现广告展示。
+鲸鸿动能广告服务javascript示例代码向您介绍如何将鲸鸿动能广告服务JavaScript API集成到H5页面中，实现广告展示。
 
 ## 安装
 在华为手机上安装该示例代码项目。
@@ -20,7 +20,8 @@
 在华为手机上安装HMS Core (APK) 6.0.0及以上版本。
 
 ## 示例代码
-华为广告服务Javascript示例代码集成了HMS Ads JavaScript API，为您提供横幅广告、原生广告、激励广告、插屏广告的展示页面。本示例代码包括以下六个文件，便于您进行广告加载、展示和用户意见征集：
+鲸鸿动能广告服务Javascript示例代码集成了HMS Ads JavaScript API，为您提供横幅广告、原生广告、激励广告、插屏广告的展示页面。
+本示例代码包括以下六个文件，便于您进行广告加载、展示和用户意见征集：
 
 1). banner.html
 用于加载、展示横幅广告。
@@ -65,5 +66,5 @@ Reward Ads&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Native Ads
 如果您在尝试示例代码中遇到问题，请向仓库提交[issue](https://github.com/HMS-Core/hms-ads-demo-javascript/issues)，也欢迎您提交[Pull Request](https://github.com/HMS-Core/hms-ads-demo-javascript/pulls)。
 
 ##  授权许可
-华为广告服务JavaScript示例代码经过 [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0)授权许可。
+鲸鸿动能广告服务JavaScript示例代码经过 [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0)授权许可。
 
