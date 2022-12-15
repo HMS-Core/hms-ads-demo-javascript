@@ -1,4 +1,4 @@
-# HMS Ads Demo for JavaScript
+# Petal Ads Demo for JavaScript
 English | [中文](README_ZH.md)
 ## Table of Contents
 
@@ -11,7 +11,7 @@ English | [中文](README_ZH.md)
 
 
 ## Introduction
-The hms-ads-demo-javascript program demonstrates how to integrate the HMS  Ads JavaScript API into a H5 Page and display ads.
+The hms-ads-demo-javascript program demonstrates how to integrate the Petal Ads JavaScript API into a H5 Page and display ads.
 
 ## Installation
 Install the program on Huawei Android mobile phones.
@@ -20,7 +20,7 @@ Install the program on Huawei Android mobile phones.
 HMS Core (APK) 6.0.0 or later has been installed on Huawei Android phones.
 
 ## Sample Code
-The hms-ads-demo-javascript program integrates the HMS Ads JavaScript API and provides the pages for displaying banner, native, rewarded, interstitial ads respectively.
+The hms-ads-demo-javascript program integrates the Petal Ads JavaScript API and provides the pages for displaying banner, native, rewarded, interstitial ads respectively.
 The following html in the demo are used for loading and displaying ads and collecting user comments:
 
 1). banner.html
